@@ -1,0 +1,92 @@
+body{
+    font-size: 15px;
+    margin: 30px;
+    background-color: beige;
+    margin-left: 80px;
+    margin-right: 80px;
+    color:black;
+}
+.corps{
+    display: flex;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: ;
+}
+table{
+    background-color: bisque;
+}
+
+.droit{
+    border-left: 2px solid;
+    padding-left: 10px;
+
+}
+
+samp{
+    font-size: 30px;
+    text-decoration: none;
+    
+}
+h3{
+    background-color: blue;
+    border-radius: 30px;
+    text-align: center;
+    padding: 5px;
+    color: aliceblue;
+    border-bottom: 2px solid black;
+}
+img{
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    margin-left: 15%;
+}
+
+.laf{
+    display: flex;
+    
+}
+
+.nom_langues{
+    padding-right: 12px;
+}
+.bop{
+    display: flex;
+}
+
+.gauche{
+    padding-right: 10px;
+}
+.Formation p{
+    border-left: 2px solid gray;
+   padding-left: 6px;
+}
+
+.Formation ul{
+    padding-right: 6px;
+}
+
+.Diplome p{
+    border-left: 2px solid gray;
+   padding-left: 6px;
+}
+.Diplome ul{
+    padding-right: 6px;
+}
+.kop{
+    display: flex;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.gto p{
+    border-left: 2px solid gray;
+   padding-left: 6px;
+}
+.gto ul{
+    padding-right: 6px;
+}
+.gto{
+    display: flex;
+}
